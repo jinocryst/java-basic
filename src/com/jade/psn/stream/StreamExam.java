@@ -1,4 +1,4 @@
-package com.jade.psn;
+package com.jade.psn.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
