@@ -1,4 +1,4 @@
-package dev.jadepark.standard.ch2;
+package dev.jadepark.standard.ch2variable;
 
 public class SpecialCharEx {
     public static void main(String[] args) {

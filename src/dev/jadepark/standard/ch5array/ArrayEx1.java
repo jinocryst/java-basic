@@ -1,4 +1,4 @@
-package dev.jadepark.standard.ch5;
+package dev.jadepark.standard.ch5array;
 
 public class ArrayEx1 {
 
