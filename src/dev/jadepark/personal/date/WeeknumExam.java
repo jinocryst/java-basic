@@ -27,4 +27,6 @@ public class WeeknumExam {
         // 첫 월요일 이전이면 회귀식으로 전 달 마지막 주차를 구함
         return getWeekNumber(date.minusMonths(1).with(TemporalAdjusters.lastDayOfMonth()));
     }
+
+
 }
