@@ -3,12 +3,17 @@ package dev.jadepark.personal.date;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.temporal.TemporalAdjusters;
+import java.util.Calendar;
 
 public class WeeknumExam {
 
 
     public static void main(String[] args) {
 
+        Calendar calendar = Calendar.getInstance();
+        calendar.set(2023,1-1, 1);
+        int startYmd = calendar.get(Calendar.DAY_OF_YEAR) + calendar.get(Calendar.DAY_OF_MONTH) + calendar.get(Calendar.DATE);
+        System.out.println(startYmd);
     }
 
     public Integer getWeekNumber (LocalDate date) {
