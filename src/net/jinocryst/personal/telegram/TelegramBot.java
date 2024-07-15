@@ -7,8 +7,8 @@ import java.net.URL;
 
 public class TelegramBot {
     public static void sendMsgByKeyword(String text) {
-        String Token = "6974698064:AAGd8-z-LOqAxp16Tj3zYU9WyiTNI8vUVpg";
-        String chat_id = "6837661155";
+        String Token = "";
+        String chat_id = "";
         BufferedReader in = null;
 
         try {
