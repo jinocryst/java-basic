@@ -1,4 +1,4 @@
-package net.jinocryst.codesignal;
+package dev.jadepark.codesignal;
 
 class Util {
 
