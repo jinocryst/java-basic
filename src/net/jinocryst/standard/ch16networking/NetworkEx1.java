@@ -1,4 +1,4 @@
-package dev.jadepark.standard.ch16networking;
+package net.jinocryst.standard.ch16networking;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
