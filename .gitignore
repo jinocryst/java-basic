@@ -236,3 +236,6 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,idea,intellij,eclipse
 n
+
+.vscode
+java-basic.iml

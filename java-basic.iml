@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <!-- 수정: type="java-source"로 변경 -->
-      <sourceFolder url="file://$MODULE_DIR$/src" type="java-source" />
-      <!-- 수정: 테스트 리소스 폴더를 나타내는 경우에만 type="java-test-resource" 사용 -->
-      <!--<excludeFolder url="file://$MODULE_DIR$/src" />-->
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
